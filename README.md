@@ -7,7 +7,7 @@ ISMS FINAL PROJECT RESOURCES
 ### شكر وتقدير
 
 **إشراف الدكتور:**  
-@aimanoz — أيمن العنسي
+أيمن العنسي — @aimanoz
 
 **إعداد وإشراف الطلاب:**
 
